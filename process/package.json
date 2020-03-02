@@ -1,9 +1,9 @@
 {
   "name": "logviewer.plugin.transport.serial",
   "version": "1.2.1",
-  "logviewer_version": "1.0.0",
-  "logviewer": {
-    "type": "single"
+  "chipmunk": {
+    "type": "single",
+    "displayName": "Serial ports"
   },
   "description": "",
   "main": "./dist/main.js",
